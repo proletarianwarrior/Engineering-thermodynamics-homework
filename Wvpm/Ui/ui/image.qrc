@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="stream">
+    <file>image/pop.jpg</file>
+    <file>image/title.png</file>
+    <file>image/water.jpg</file>
+    <file>image/steam.jpg</file>
+  </qresource>
+</RCC>
